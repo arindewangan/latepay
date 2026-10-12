@@ -1,0 +1,4 @@
+tabpfn==2.0.6  # pinned: >=2.1 requires interactive license acceptance; 2.0.6 is the Week-1-proven version
+flask>=3.0
+numpy>=1.26
+pytest>=8.0
